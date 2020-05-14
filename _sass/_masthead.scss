@@ -23,3 +23,16 @@
     font-size: 2em;
   }
 }
+
+.site-masthead p {
+  // color: $muted-text-color;
+  font-size: 0.9em;
+  max-width: 580px;
+  padding: 0 20px;
+  display: block;
+  margin: 10px auto 0;
+  // padding: 0 1rem;
+  @media (min-width: $on-tablet) {
+    // font-size: 2em;
+  }
+}

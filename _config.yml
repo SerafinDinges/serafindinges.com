@@ -15,11 +15,23 @@
 # in the templates via {{ site.myvariable }}.
 title: Serafin Dinges
 email: hi@serafindinges.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Journalism, Podcasts & Programming
+subtitle: >- # this means to ignore newlines until "baseurl:"
+  Journalist, Producer & Programmer
+description: >-
+  <p>
+  I'm a freelance journalist, podcast producer and programmer. I did a degree in Comparative Literature and English Linguistics, got lost, graduated, found my passion, and am now doing a postgrad in Cultural Journalism.
+  </p><p>
+  I mainly work in podcasts where I host, produce, research, edit, consult. I'm interested in the internet, science communication, data journalism. I also work in writing where I mostly stare at an empty screen. 
+  </p><p>
+  My work is in English and German and has been done for <em>radioeins, rbb, Gabor Steingarts Morning Briefing, Reform Radio, Frankfurter Rundschau</em> and lots underfunded podcast projects.
+  </p><p>
+    <a href=/assets/docs/CV_SerafinDinges_DE.pdf target=_blank>Curriculum Vitae</a> | 
+    <a href=/assets/docs/CV_SerafinDinges_EN.pdf target=_blank>Lebenslauf</a>
+  </p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://serafindinges.com" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
+google_analytics: UA-50812661-2
 twitter_username: etherealserafin
 github_username:  SerafinDinges
 

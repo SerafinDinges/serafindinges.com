@@ -25,9 +25,9 @@
 <body>
 
   {% if page.layout == 'home' %}
-  <a href="#main" class="skip-navigation">
+  <!-- <a href="#main" class="skip-navigation">
     Skip to list of posts
-  </a>
+  </a> -->
   {% else %}
   <!-- <a href="#main" class="skip-navigation">
     Skip to content
@@ -40,14 +40,16 @@
   {% include search.html %}
   {% endunless %} -->
 
-  {% include menu.html %}
+  <!-- {% include menu.html %} -->
 
   {% unless site.hide_credits %}
-  <!-- <aside class="site-credits">
-        <p>
-          <small><a href="https://github.com/patdryburgh/hitchens">Hitchens Theme</a> powered by <a href="http://jekyllrb.com">Jekyll</a></small>
-        </p>
-      </aside> -->
+  <aside class="site-credits">
+    <p>
+      <small>Mail: <a href="mailto:hi@serafindinges.com">hi@serafindinges.com</a> – PGP: <a
+          href="https://keys.openpgp.org/vks/v1/by-fingerprint/74B82A9580FB2A337A03046D5525A5445354FB9A">74B82A9580FB2A337A03046D5525A5445354FB9A</a>
+        – Signal: +49 15754746796</small>
+    </p>
+  </aside>
   {% endunless %}
 
 </body>
