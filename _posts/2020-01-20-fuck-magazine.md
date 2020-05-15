@@ -1,6 +1,6 @@
 ---
 title: >-
-    FUCK! – Pitch für ein Magazin [de]
+    FUCK! – Pitch für ein Magazin ᵈᵉ
 # category: literature
 layout: post
 ---

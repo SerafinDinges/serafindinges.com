@@ -1,6 +1,6 @@
 ---
 title: >-
-    Feature: Internierungslager Ketschendorf [de]
+    Internierungslager Ketschendorf ᵈᵉ
 # category: literature
 layout: post
 ---
