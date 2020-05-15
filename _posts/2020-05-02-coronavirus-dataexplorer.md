@@ -1,6 +1,6 @@
 ---
 title: >- 
-    Data visualisation: Coronavirus So Meta!
+    Data Visualisation: Coronavirus So Meta!
 # category: literature
 layout: post
 ---

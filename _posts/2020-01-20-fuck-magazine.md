@@ -12,5 +12,5 @@ Magazinpitch, entstanden in einem Seminar in Kulturjournalismus an der UdK. Alle
 - [Pitch](/assets/pages/fuckmag/MagazinPitch.pdf)
 - [Editorial](/assets/pages/fuckmag/MagazinEditorial.pdf)
 - [Cover](/assets/pages/fuckmag/200130_Entwurf_1.jpg)
-- [Präsentation](Präsentation)
+- [Präsentation](https://docs.google.com/presentation/d/14a_ZF4MFXNuAvIw99lvfFUlTf8-vIqR65Qk4JnkuZjE/edit#slide=id.g6e57a5ef55_0_76)
 
