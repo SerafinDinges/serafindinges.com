@@ -2,6 +2,10 @@
 layout: post
 title: Portfolio
 ---
+<p style="text-align: center">
+    <a href="/assets/docs/CV_SerafinDinges_DE.pdf" target="_blank">Curriculum Vitae</a> | 
+    <a href="/assets/docs/CV_SerafinDinges_EN.pdf" target="_blank">Lebenslauf</a>
+</p>
 
 I mainly work in audio – podcasts mostly – in German and English, with the odd writing gig thrown in between. Here you can find a quick selection of some of my work that I am the most proud of.
 
