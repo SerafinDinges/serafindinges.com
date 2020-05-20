@@ -29,6 +29,12 @@ My biggest project to date: An hour-long pilot of a podcast I produced while wor
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/743821159&color=%23645f54&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
 
+##### [Europe to Date](https://www.europetodate.com/)
+
+ An English-language podcast that looks at European issues from an international perspective. Created by Rebecca Ritters and Clare Richardson, who met while working for _Deutsche Welle_, I joined them in autumn of 2018 for their second season. I did some conceptual and editorial work as well as produced a few of the second season's episodes.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/565701924&color=%23645f54&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
 ### Writing ᵈᵉ
 
 - [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/lange-abschied-weissen-dominanz-13135259.html): "Mit Weißen über Hautfarbe sprechen" – Buchrezension von "Der lange Abschied von der weißen Dominanz" - Charlotte Wiedemann 
