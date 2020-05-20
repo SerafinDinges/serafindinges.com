@@ -1,0 +1,29 @@
+---
+title: >-
+    Modekritik: Was ist schon normal? ᵈᵉ
+# category: literature
+layout: post
+---
+_2013 sandte der Modedesigner Rick Owens mit der Präsentation seiner S/S Kollektion Schockwellen durch die Modewelt. Fünf Jahre später fordert Rihanna mit der Präsentation ihrer Unterwäschelinie die Konventionen aufs Neue heraus. Ist was Owens damals zur Avantgarde machte heute schon normal? Ein Blick auf die Grenzen des Erwähnenswerten._
+
+Vierzig Frauen stampfen in einer leeren Fabrikhalle ein Gerüst herab. Zu Trommelgeräuschen wird geklatscht, geschrien, getanzt. Die Performerinnen machen etwas, das man von Modeshows nicht gewohnt ist: sie nehmen Raum ein. In 90-Grad Bewegungen wenden sie sich direkt dem Publikum zu, zeigen sich. Aber nicht um betrachtet zu werden, sondern als wollten sie sagen: “Ich bin hier!” Untermauert wird diese Präsenz von den fast aggressiven Ausdrücken auf den Gesichtern. Weit aufgerissene Augen, vorgeschobene Unterlippe, gebleckte Zähne.
+
+Hier wird nicht Kleidung präsentiert, während die Körper im Hintergrund verschwinden. Die Kleidung und die Tänzerinnen sind in Bewegung (angemessen tragen sie Sportschuhe). Betont wird nicht die Form der Körper, sondern die Form des Rhythmus. Die Designs in schwarz, weiß und sandfarben sind oft weit und haben Einschnitte. Die Bewegung steht der Kleidung und die Kleidung steht den Bewegungen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TirA415R7o4" style="margin-top: 20px;" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Rick Owens hat mit der Präsentation seiner Ready-To-Wear Frauen-Kollektion S/S 2014 mit vielen ungeschriebenen Regeln gebrochen. Die Show fand im September 2013 in Paris statt. Inhaltlich hat der gebürtige US-Amerikaner allerdings viel von zuhause mitgebracht. Die großteils schwarzen Models hatten Maße, die in der Welt der Catwalks selten gesehen werden, umso häufiger abseits davon. Die Entscheidung war laut Owens eine pragmatische. Er wollte mehr mit den Körpern arbeiten, die seine Kleidung später auch tragen würden. “I don’t really consider boobs enough so let’s think about boobs”, sagte er in einem Interview mit Candy Magazine.
+
+Die abseitige Performance dagegen wurde auch als klares politisches Statement gesehen. Statt Models engagierte er Step Dance Performerinnen aus verschiedenen historisch schwarzen Schwesternschaften. Diese Studentenverbindungen tragen in den USA eine lange Geschichte mit sich, in der die eigene Präsenz gerechtfertigt werden musste. Auch nach großen Sprüngen im Zivilrecht in den USA, waren schwarze Frauen die letzten, die an allen Universitäten studieren konnten. Studentenverbindungen waren in diesem antagonistischen Umfeld ein Rückzugsort und Safe Space. Step Dance war dabei sowohl Ausdruck als auch kompromisslose Einforderung der eigenen Kultur.
+
+Zwar ist ein bitterer Beigeschmack nicht zu ignorieren, wenn ein weißer Designer, seine eigene Kleidung unter Zuhilfenahme von schwarzer Kultur zur Schau stellt. Im Großen und Ganzen wurde Rick Owens Show aber positiv aufgenommen. Viele Publikationen feierten sie als ein willkommenes Aufrütteln einer sonst so homogenen Kultur; Tim Blanks nannte die Show in der Vogue einen “joyous assault on fashion orthodoxy”.
+
+Heute wäre Rick Owens Show in vielen Aspekten wohl noch genauso radikal. Zwar weiß man seitdem, dass man sich in Modeindustrie recht einfach Pluspunkte erwirtschaften kann, indem man Inklusivität exklusiv fördert, die Norm verändert sich aber nur sehr träge. Die mangelnde Repräsentation von Minderheiten auf dem Catwalk steht nach wie vor in der Kritik. Die Fashionshows im Herbst 2018 waren für people of colour und Transgendermenschen die inklusivsten bis dato, Tendenz steigend. Was Konfektionsgröße angeht, war der Kader recht homogen, mit nur rund 1% Plus Size Models und damit seit Jahren gleichbleibend.
+
+Oft findet man die Diversität nicht im Mainstream, sondern in einigen, wenigen Ausnahmen. Ein Großteil der Plusgrößen fällt beispielsweise auf zwei Labels. In Sachen Race erhöhen die Marken den Schnitt, die sich explizit an schwarze Subkultur richten und fast ausschließlich mit schwarzen Models arbeiten, wie zum Beispiel Kanye Wests Yeezy Seasons. Was bleibt, geht über ein paar Tokenisms selten hinaus.
+
+Es entsteht für bestimmte Modeschöpfer\*innen eine Erwartungshaltung; ein Grundlevel an Diversität wird vorausgesetzt und gar nicht mehr unbedingt positiv hervorgehoben. Dass Rihanna die Präsentation ihrer Unterwäschelinie Savage X Fenty Models vieler Farben und Größen überließ, dürfte also niemanden gewundert haben. Die Popikone, die mit einer Stuntshow gefolgt von ihrem Auftritt auf einem Motorrad bereits 2017 ihr Showbewusstsein zeigte, musste also anders auffallen.
+
+Für die Show auf der New York Fashion Week im September ließ Rihannas Stammchoreographin Parris Goebel, die Models zu industriellen Break-Beats kontrastiert mit klassischer Musik, mal animalisch, mal zärtlich, mal verspielt tanzen. Es ist verwundbarer als in Owens Show, lässt aber auch Raum für mehr Komplexität. Auch hier gilt zuallererst die eigene Präsenz, die niemandem Rechtfertigung schuldig ist. Die Schnitte der Unterwäsche sind dabei so unterschiedlich wie die Models selbst. Fast beiläufig erscheinen dabei die zwei hochschwangeren Models, die den vielleicht größten Normbruch der Show darstellen.
+
+Ähnlich wie vor fünf Jahren die Präsentation von Rick Owens, können Shows wie diese die Grenzen der Möglichkeit und Diversität ausweiten. Das ist schön und wichtig. Gleichzeitig dürfen wir dabei aber auch nicht den langsamen Kampf um mehr Ausgeglichenheit im Mainstream vergessen. Auch, wenn er sich heute schon manchmal langweilig anfühlt.

@@ -1,0 +1,16 @@
+---
+title: >-
+    Konzertkritik: Man kennt sich ᵈᵉ
+layout: post
+---
+_Die aktuelle Saison der Reihe “2 X Hören Zeitgenössisch” im Konzerthaus endet mit einer Komposition des italienischen Pioniers elektronischer Musik. Das Stück überzeugt, wenn es auch zum zweiten Mal nicht unbedingt besser wird._
+
+Vier Freunde sitzen zusammen und unterhalten sich. Das Gespräch ist geprägt von der Gelassenheit jener Menschen, die schon wissen, was der Rest der Gesellschaft zu sagen hat. Man kennt sich. Manch einer fällt der anderen ins Wort, aber niemand ist gekränkt. Die Stimmung erhitzt sich bei dem ein oder anderen Thema, aber wozu streiten, wenn doch alle das Gleiche meinen. So ist das Gespräch ein Tauziehen und eine Kontaktübung, ein vor und zurück, ein schneller und ein langsamer. Bis sich dann doch alle einig sind und etwas selbstgefällig zurücklehnen.
+
+Luciano Berios “Linea” wurde explizit als Tanzstück konzipiert. Es funktioniert aber auch ohne Tänzer\*innen, wie der Abend “2 X Hören Zeitgenössisch” im Konzerthaus zeigt. Im kleinen Konzertsaal, in den der Abend wegen eines kaputten Lastenaufzugs verlegt wurde, ist das alles sehr intim. Auch wenn die pastellfarbenen Wände hin und wieder mit dem Stück zu konkurrieren scheinen, wer denn nun der schrägere Vogel ist. Aber in seiner Unstimmigkeit stimmt das schon irgendwie wieder.
+
+Auch wenn Tänzer\*innen fehlen – eine Choreographie ist trotzdem zu sehen. Die sehr konzeptionelle Arbeit des italienischen Komponisten, der ohnehin schon für seine Experimentierfreudigkeit bekannt ist, sieht genau vor wie sich die vier Instrumente zu positionieren haben. Zwei Flügel, gespielt von Ehepaar und Klavierduo Alina und Nikolay Shalamov, stehen nebeneinander, ihnen gegenüber jeweils ein Vibraphon, gespielt von Sabrina Ma und eine Marimba, gespielt von Michael Oberaigner.
+
+Alle vier gehen in vollster Konzentration auf und stimmen sich durch ständige Blicke zu ihren Konterparts ab. Die Bewegungen des Stücks verlangen ihnen eine ganz besondere Dynamik ab. Berio hat sich in “Linea” auf die immer wiederkehrenden selben zehn Noten beschränkt, die sich mal langsam mal schneller, mal von vorne, mal von hinten durch das gesamte Stück ziehen. Wie ein Bild, das mit dem immer gleichen Pinsel aber einer anderen Technik gemalt, am Ende an Tiefe gewinnt und Struktur erhält.
+
+Noch mehr Tiefe soll der Abend gewinnen, durch die Moderation des Dirigenten Christian Jost. Und manchmal versteht man auch, was er einem zeigen will, wenn er die Musiker\*innen einzelne Stellen, losgelöst aus ihrem Kontext, spielen lässt. Das gesamte Lied ist größer als die Summe seiner Teile. Aber wenn er dann sehr sachlich von Terzen, Achteln, Sechzehnteln, Tremoli erzählt, dann erinnert das doch eher an den Musikunterricht in der Schule und es drängt sich die Frage auf, für wen dieser Abend denn gemacht wurde. Statt an Begeisterung und neuer Wertschätzung zu gewinnen, verhallt die zweite Aufführung des Stücks. Nächstes Mal gerne etwas motivierter und belebter. Vielleicht ist zurück im Werner-Otto Saal dann auch wieder der Inhalt bunt, und nicht der Raum.

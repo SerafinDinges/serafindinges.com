@@ -19,7 +19,7 @@ h2 {
 
 h3 {
   font-size: 1.5em;
-  margin: 1.3333em auto;
+  margin: 1.1em auto;
   text-align: center;
 }
 
@@ -33,7 +33,7 @@ h4 {
 h5 {
   font-size: 1em;
   font-style: italic;
-  margin: 2em auto;
+  margin: 1em auto 0.6em;
   text-align: center;
 }
 
@@ -66,6 +66,10 @@ blockquote {
   > * {
     padding: 0 3em;
   }
+}
+
+li {
+  list-style: circle;
 }
 
 blockquote.epigraph {
