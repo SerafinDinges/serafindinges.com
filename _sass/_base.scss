@@ -13,20 +13,20 @@ h1 {
 
 h2 {
   font-size: 2em;
-  margin: 1em auto;
+  margin: 0.5em auto;
   text-align: center;
 }
 
 h3 {
   font-size: 1.5em;
-  margin: 1.1em auto;
+  margin: 0.5em auto;
   text-align: center;
 }
 
 h4 {
   font-size: 1.25em;
   font-style: italic;
-  margin: 1.875em auto;
+  margin: 1.5em auto;
   text-align: center;
 }
 
@@ -58,6 +58,10 @@ a {
 
 a:focus {
   outline: 1px dashed $text-color;
+}
+
+p {
+  font-size: 0.9em;
 }
 
 blockquote {
@@ -165,5 +169,5 @@ figcaption {
 }
 
 p.noindent {
-  text-indent: 0;
+  text-indent: 0 !important;
 }
