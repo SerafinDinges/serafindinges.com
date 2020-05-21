@@ -3,8 +3,8 @@ layout: post
 title: Portfolio
 ---
 <p style="text-align: center">
-    <a href="/assets/docs/CV_SerafinDinges_DE.pdf" target="_blank">Curriculum Vitae</a> | 
-    <a href="/assets/docs/CV_SerafinDinges_EN.pdf" target="_blank">Lebenslauf</a>
+    <a href="/assets/docs/CV_SerafinDinges_EN.pdf" target="_blank">Curriculum Vitae</a> | 
+    <a href="/assets/docs/CV_SerafinDinges_DE.pdf" target="_blank">Lebenslauf</a>
 </p>
 
 <p class="noindent">
