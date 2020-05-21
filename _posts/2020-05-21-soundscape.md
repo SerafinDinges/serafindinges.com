@@ -1,6 +1,6 @@
 ---
 title: >-
-    Ambient storytelling experiment
+    Ambient Storytelling Experiment
 layout: post
 ---
 I've been meaning to spend some time improving my soundscaping skills for podcast scoring. So I set myself the challenge to create an abstract little story just from ambient music and sounds recorded around my flat. This is the result.
