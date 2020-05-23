@@ -49,6 +49,8 @@ My biggest project to date: An hour-long pilot of a podcast I produced while wor
 
 - [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/frankfurter-buchmesse-lange-schlangen-illustratorensprechstunden-13134106.html)): "Die Hoffnung ist groß, die Konkurrenz auch" – Reportage über junge, hoffnungsvolle Illustrator\*innen auf der Frankfurter Buchmesse
 
+- [An Japan verbrüht: Marion Poschmanns "Die Kieferninseln"](/2019/12/01/rezension-kieferninseln.html)
+
 - [Schwerelos und schwermütig](/2019/05/10/rezension-fka-twigs-cellophane.html) – Zu Cellophane von FKA twigs
 
 - [Man kennt sich](/2019/06/18/konzertkritik.html) – Konzertkritik

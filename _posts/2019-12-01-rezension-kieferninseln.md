@@ -1,6 +1,6 @@
 ---
 title: >-
-    An Japan verbrüht ᵈᵉ
+    An Japan verbrüht: Marion Poschmanns "Die Kieferninseln" ᵈᵉ
 layout: post
 ---
 _Auf dem Klappentext klingt der neue Roman “Die Kieferninseln” der Lyrikerin Marion Poschmann sehr spannend. Leider geht es von da an abwärts._
