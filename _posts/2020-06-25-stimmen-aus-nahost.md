@@ -1,6 +1,6 @@
 ---
 title: >-
-    Veranstaltungsreihe: Stimmen aus Nahost 🎟 ᵈᵉ
+    Veranstaltungsreihe: Stimmen aus Nahost ᵈᵉ
 layout: post
 ---
 
