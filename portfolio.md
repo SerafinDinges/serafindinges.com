@@ -30,7 +30,7 @@ My biggest project to date: An hour-long pilot of a podcast I produced while wor
 
 ##### [Podcast](https://praxis-udk.de/2020/06/26/praxisgespraech-mit-sarah-lehnert-%f0%9f%93%bb/): Praxisgespräch mit Sarah Lehnert ᵈᵉ
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/847179115&color=%23645f54&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+<iframe src="https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-mit-Sarah-Lehnert--von-Serafin-Dinges-ei354h/a-a2ue9qu" height="166px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ##### Feature: New Work ᵈᵉ
 
