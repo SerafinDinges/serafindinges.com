@@ -36,7 +36,7 @@ description: >-
       <a href=https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis target=_blank>
         <img src=/assets/images/olympia.png class=highlight />
       </a>
-      <iframe src=https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-mit-Sarah-Lehnert--von-Serafin-Dinges-ei354h/a-a2ue9qu height=102px width=400px frameborder=0 scrolling=no></iframe>
+      <iframe src=https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-mit-Sarah-Lehnert--von-Serafin-Dinges-ei354h/a-a2ue9qu height=166px width=100% frameborder=0 scrolling=no></iframe>
     </div>
   </div>
 baseurl: "" # the subpath of your site, e.g. /blog
