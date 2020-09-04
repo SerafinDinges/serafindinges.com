@@ -7,11 +7,11 @@ Praxisgespräch ist ein Interviewpodcast, den ich gemeinsam mit Kommiliton*innen
 
 Ich habe drei Folgen der ersten Staffel produziert. [Alle Folgen sind hier zu finden.](https://praxis-udk.de/tag/audio/)
 ##### Trailer
-<iframe src="https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-Intro-ei3549" height="166px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-Intro-ei3549" height="100px" width="100%" frameborder="0" scrolling="no"></iframe>
 ##### Videojournalistin Sarah Lehnert (Y-Kollektiv)
-<iframe src="https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-mit-Sarah-Lehnert--von-Serafin-Dinges-ei354h/a-a2ue9qu" height="166px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-mit-Sarah-Lehnert--von-Serafin-Dinges-ei354h/a-a2ue9qu" height="100px" width="100%" frameborder="0" scrolling="no"></iframe>
 ##### Onlineredakteur Fabian Soethof (Musikexpress)
-<iframe src="https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-mit-Fabian-Soethof--von-Serafin-Dinges-ei4lt2" height="166px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-mit-Fabian-Soethof--von-Serafin-Dinges-ei4lt2" height="100px" width="100%" frameborder="0" scrolling="no"></iframe>
 ##### Netzaktivistin Marie Gutbub
-<iframe src="https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-mit-Marie-Gutbub--von-Serafin-Dinges-ej4eq9" height="166px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-mit-Marie-Gutbub--von-Serafin-Dinges-ej4eq9" height="100px" width="100%" frameborder="0" scrolling="no"></iframe>
 Der Podcast ist auf [Spotify](https://open.spotify.com/show/3L92fBTf5P2JVFX1pwcyZg), [Apple Podcasts](https://podcasts.apple.com/de/podcast/praxisgespr%C3%A4ch/id1519502780) usw. zu finden. Die URL des Feeds findet ihr hier: https://feeds.feedburner.com/praxis-udk
