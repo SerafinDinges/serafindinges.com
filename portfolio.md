@@ -49,6 +49,12 @@ My biggest project to date: An hour-long pilot of a podcast I produced while wor
 
 ### Writing ᵈᵉ
 
+<p class="noindent">
+<a href="https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis" target="_blank">
+  <img src="/assets/images/olympia.png" class="highlight" />
+</a>
+</p>
+
 - [Vogue Germany](https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis): "Mehr davon, Olympia Bukkais" – Portrait der Drag Queen Olympia Bukkakis
 
 - [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/lange-abschied-weissen-dominanz-13135259.html): "Mit Weißen über Hautfarbe sprechen" – Buchrezension von "Der lange Abschied von der weißen Dominanz" - Charlotte Wiedemann 
