@@ -85,7 +85,15 @@ I have done a fair amount of hosting, both in paneled events and of course on ai
 <p class="noindent">
 ... with the writer Kenny Fries and the queer activist and rabbinical student Naomi Henkel-Gümbel (switches to English after a few minutes).</p>
 
-<iframe style="width: 100%; height: 370px;" src="https://www.youtube.com/embed/C-zfQi6Bb1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 100%; height: 370px;" src="https://www.youtube-nocookie.com/embed/C-zfQi6Bb1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Panel discussion on cultural collaborations in the middle east
+
+<iframe style="width: 100%; height: 370px;" src="https://www.youtube-nocookie.com/embed/ZIwE4kwniYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Semesterabschlusspräsentation des Studiengangs Kulturjournalismus an der UdK Berlin ᵈᵉ
+
+<iframe style="width: 100%; height: 370px;" src="https://www.youtube-nocookie.com/embed/QnJ9K41E_8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Gästezimmer mit Günter M. Ziegler, Präsident der FU ᵈᵉ
 
@@ -106,4 +114,4 @@ I have done a fair amount of hosting, both in paneled events and of course on ai
 <p class="noindent">
 Für mein Abschlussprojekt im Seminar "Mobile Journalism" habe ich eine Künstlerin auf ihrem Weg durch den Kunstpreis begleitet. Kamera, Ton, Schnitt usw. alles aus eigener Hand.</p>
 
-<iframe style="width: 100%; height: 370px;" src="https://www.youtube.com/embed/bo8ijPi14yo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 100%; height: 370px;" src="https://www.youtube-nocookie.com/embed/bo8ijPi14yo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
