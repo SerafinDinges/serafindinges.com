@@ -10,7 +10,7 @@ layout: post
 
 **Anschreiben** 
 
-Ich bin Serafin Dinges, 27 Jahre alt, und studiere im Master Kulturjournalismus an der UdK. Ich lebe und liebe Radio jetzt schon seit ein paar Jahren – höre und produziere dabei vor allem Podcasts. Ich moderiere und produziere einen eigenen Podcast für Reform Radio in Manchester und habe meine Finger noch bei einigen anderen im Spiel. Ich war lange beim Uniradio und freier Redakteur für radioeins und Gabor Steingarts Morning Briefing.
+Ich bin Serafin Dinges, 27 Jahre alt, und studiere im Master Kulturjournalismus an der UdK. Ich lebe und liebe Audio – höre und produziere dabei vor allem Podcasts. Ich moderiere und produziere einen eigenen Podcast für Reform Radio in Manchester und habe meine Finger noch bei einigen anderen im Spiel. Ich war lange beim Uniradio und freier Redakteur für radioeins und Gabor Steingarts Morning Briefing.
 
 Ich liebe es jedes Mal aufs Neue, Menschen zu interviewen und aus einem Gespräch eine Geschichte zu machen. Genauso liebe ich die Mischung aus journalistischem Gespür und technischem Know-How, die erforderlich ist, um hinterher ein spannendes Stück Radio zu machen.
 
