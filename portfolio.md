@@ -11,9 +11,37 @@ title: Portfolio
 I mainly work in audio – podcasts mostly – in German and English, with the odd writing gig thrown in between. Here you can find a quick selection of some of my work that I am the most proud of.
 </p>
 
-Of course not everything can make it in here and not everything is neatly presentable. A lot of the work that I enjoy most is the collaboration with other people. Among them editing, working out concepts, giving workshops, and consultancy work – in general sharing knowledge with other fans of audio storytelling is one of the job's biggest joys to me. The six months I spent as the editor-in-chief at my university radio station [CouchFM](http://www.couchfm.de/) was some of the most instructive and fun work I've had the pleasure of doing. The results of that work are of course way less tangible and much harder to put into a bullet point on this page.
+A lot of what I enjoy most about my line of work is the collaboration with other people. Editing, working out concepts, giving workshops, doing consultancy work – these are a few of my favourite things. The half-year I spent as the editor-in-chief at my university radio station [CouchFM](http://www.couchfm.de/) was some of the most instructive and fun work I've had the pleasure of doing. The results of this kind of work are of course way less tangible and much harder to put into a bullet point on this page.
 
-Please note that I don't have the rights to all of my work to share on my website freely – but if you want to know more about some of my public radio work (in German), please [get in touch](mailto:hi@serafindinges.com).
+Please note that I don't have the rights to all of my work to share on my website freely –  if you want to know more about some of my public radio work (in German), please [get in touch](mailto:hi@serafindinges.com).
+
+### Writing ᵈᵉ
+
+<p class="noindent">
+<a href="https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis" target="_blank">
+  <img src="/assets/images/olympia.png" class="highlight" />
+</a>
+</p>
+
+- [Vogue Germany](https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis): "Mehr davon, Olympia Bukkais" – Portrait der Drag Queen Olympia Bukkakis
+
+- [Praxis](https://praxis-udk.de/2020/09/11/eintauchen-in-childish-gambinos-because-the-internet/): "Eintauchen in Childish Gambinos Because the Internet" – Die neue Staffel Dissect
+
+- [Praxis](https://praxis-udk.de/2020/09/09/veggie-bingo/): "Veggie Bingo" – Das neue Album der Trompeterin Jaimie Branch mit ihrem Projekt Anteloper
+
+- [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/lange-abschied-weissen-dominanz-13135259.html): "Mit Weißen über Hautfarbe sprechen" – Buchrezension von "Der lange Abschied von der weißen Dominanz" - Charlotte Wiedemann 
+
+- [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/frankfurter-buchmesse-lange-schlangen-illustratorensprechstunden-13134106.html)): "Die Hoffnung ist groß, die Konkurrenz auch" – Reportage über junge, hoffnungsvolle Illustrator\*innen auf der Frankfurter Buchmesse
+
+- [An Japan verbrüht: Marion Poschmanns "Die Kieferninseln"](/2019/12/01/rezension-kieferninseln.html)
+
+- [Schwerelos und schwermütig](/2019/05/10/rezension-fka-twigs-cellophane.html) – Zu Cellophane von FKA twigs
+
+- [Man kennt sich](/2019/06/18/konzertkritik.html) – Konzertkritik
+
+- [Was ist schon normal?](/2019/02/03/modekritik-rick-owens.html) – Modekritik Rick Owens
+
+- [A Room of One’s Own](/2019/01/10/kunststadt-berlin.html) – über das Artist in Residence-Programm des Auswärtigen Amtes
 
 ### Audio
 
@@ -30,7 +58,7 @@ My biggest project to date: An hour-long pilot of a podcast I produced while wor
 
 ##### [Podcast](https://praxis-udk.de/2020/06/26/praxisgespraech-mit-sarah-lehnert-%f0%9f%93%bb/): Praxisgespräch mit Sarah Lehnert ᵈᵉ
 
-<iframe src="https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-mit-Sarah-Lehnert--von-Serafin-Dinges-ei354h/a-a2ue9qu" height="166px" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-mit-Sarah-Lehnert--von-Serafin-Dinges-ei354h/a-a2ue9qu" height="100px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ##### Feature: New Work ᵈᵉ
 
@@ -46,30 +74,6 @@ My biggest project to date: An hour-long pilot of a podcast I produced while wor
  An English-language podcast that looks at European issues from an international perspective. Created by Rebecca Ritters and Clare Richardson, who met while working for _Deutsche Welle_, I joined them in autumn of 2018 for their second season. I did some conceptual and editorial work as well as produced a few of the second season's episodes.</p>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/565701924&color=%23645f54&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
-
-### Writing ᵈᵉ
-
-<p class="noindent">
-<a href="https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis" target="_blank">
-  <img src="/assets/images/olympia.png" class="highlight" />
-</a>
-</p>
-
-- [Vogue Germany](https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis): "Mehr davon, Olympia Bukkais" – Portrait der Drag Queen Olympia Bukkakis
-
-- [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/lange-abschied-weissen-dominanz-13135259.html): "Mit Weißen über Hautfarbe sprechen" – Buchrezension von "Der lange Abschied von der weißen Dominanz" - Charlotte Wiedemann 
-
-- [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/frankfurter-buchmesse-lange-schlangen-illustratorensprechstunden-13134106.html)): "Die Hoffnung ist groß, die Konkurrenz auch" – Reportage über junge, hoffnungsvolle Illustrator\*innen auf der Frankfurter Buchmesse
-
-- [An Japan verbrüht: Marion Poschmanns "Die Kieferninseln"](/2019/12/01/rezension-kieferninseln.html)
-
-- [Schwerelos und schwermütig](/2019/05/10/rezension-fka-twigs-cellophane.html) – Zu Cellophane von FKA twigs
-
-- [Man kennt sich](/2019/06/18/konzertkritik.html) – Konzertkritik
-
-- [Was ist schon normal?](/2019/02/03/modekritik-rick-owens.html) – Modekritik Rick Owens
-
-- [A Room of One’s Own](/2019/01/10/kunststadt-berlin.html) – über das Artist in Residence-Programm des Auswärtigen Amtes
 
 ### Writing ᵉⁿ	
 
