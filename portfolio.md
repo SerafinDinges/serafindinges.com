@@ -22,6 +22,7 @@ Please note that I don't have the rights to all of my work to share on my websit
   <img src="/assets/images/olympia.png" class="highlight" />
 </a>
 </p>
+- Aktuell schreibe ich als Praktikant viel für netzpolitik.org. [Hier geht's zu den Texten.](https://netzpolitik.org/author/serafin-dinges/)
 
 - [Vogue Germany](https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis): "Mehr davon, Olympia Bukkais" – Portrait der Drag Queen Olympia Bukkakis
 
