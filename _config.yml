@@ -17,9 +17,7 @@ title: Serafin Dinges
 email: hi@serafindinges.com
 subtitle: >- # this means to ignore newlines until "baseurl:"
   Journalist, Producer & Programmer
-description: >-
-  <div class=description>
-  </div>
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://serafindinges.com"
 twitter_username: etherealserafin
