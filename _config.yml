@@ -36,7 +36,6 @@ description: >-
   </div>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://serafindinges.com"
-google_analytics: UA-50812661-2
 twitter_username: etherealserafin
 github_username:  SerafinDinges
 
