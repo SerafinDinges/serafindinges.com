@@ -23,16 +23,6 @@ description: >-
       <a href=/assets/docs/CV_SerafinDinges_EN.pdf target=_blank>Curriculum Vitae</a> | 
       <a href=/assets/docs/CV_SerafinDinges_DE.pdf target=_blank>Lebenslauf</a>
     </p>
-    <p class=noindent>
-    I'm a freelance journalist, podcast producer and programmer. I did a degree in Comparative Literature and English Linguistics, got lost, graduated, found my passion, and am now doing a postgrad in Cultural Journalism.
-    </p><p>
-    I mainly work in podcasts where I host, produce, research, edit, consult. I'm interested in the internet, science communication, data journalism. I also work in writing where I mostly stare at an empty screen. 
-    </p><p>
-    I work in English and German and have done so for <em>radioeins, rbb, Gabor Steingarts Morning Briefing, Reform Radio, Frankfurter Rundschau</em> and lots of underfunded podcast projects.
-    </p>
-    <p>
-    <a href=https://serafindinges.com/portfolio.html>For an overview of my work I invite you to have a look at my portfolio.</a>
-    </p>
   </div>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://serafindinges.com"
