@@ -2,12 +2,13 @@
 layout: post
 title: Portfolio
 ---
+
 <p style="text-align: center">
     <a href="/assets/docs/CV_SerafinDinges_EN.pdf" target="_blank">Curriculum Vitae</a> | 
     <a href="/assets/docs/CV_SerafinDinges_DE.pdf" target="_blank">Lebenslauf</a>
 </p>
 
-<p class=noindent>
+<p class="noindent">
 I'm a freelance journalist, podcast producer and programmer. I did a degree in Comparative Literature and English Linguistics, got lost, graduated, found my passion, and am now doing a postgrad in Cultural Journalism.
  </p>
     
@@ -15,13 +16,13 @@ I mainly work in podcasts where I host, produce, research, edit, consult. I'm in
     
 I work in English and German and have done so for <em>radioeins, rbb, Gabor Steingarts Morning Briefing, Reform Radio, Frankfurter Rundschau</em> and lots of underfunded podcast projects.
 
-Please note that I don't have the rights to all of my work to share on my website freely –  if you want to know more about some of my public radio work (in German), please [get in touch](mailto:hi@serafindinges.com).
+Please note that I don't have the rights to all of my work to share on my website freely – if you want to know more about some of my public radio work (in German), please [get in touch](mailto:hi@serafindinges.com).
 
 ### Writing ᵈᵉ
 
 <p class="noindent">
 <a href="https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis" target="_blank">
-  <img src="/assets/images/olympia.png" class="highlight" />
+  <img src="/assets/images/links/olympia.jpg" class="highlight" />
 </a>
 </p>
 - Aktuell schreibe ich als Praktikant viel für netzpolitik.org. [Hier geht's zu den Texten.](https://netzpolitik.org/author/serafin-dinges/)
@@ -32,7 +33,7 @@ Please note that I don't have the rights to all of my work to share on my websit
 
 - [Praxis](https://praxis-udk.de/2020/09/09/veggie-bingo/): "Veggie Bingo" – Das neue Album der Trompeterin Jaimie Branch mit ihrem Projekt Anteloper
 
-- [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/lange-abschied-weissen-dominanz-13135259.html): "Mit Weißen über Hautfarbe sprechen" – Buchrezension von "Der lange Abschied von der weißen Dominanz" - Charlotte Wiedemann 
+- [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/lange-abschied-weissen-dominanz-13135259.html): "Mit Weißen über Hautfarbe sprechen" – Buchrezension von "Der lange Abschied von der weißen Dominanz" - Charlotte Wiedemann
 
 - [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/frankfurter-buchmesse-lange-schlangen-illustratorensprechstunden-13134106.html)): "Die Hoffnung ist groß, die Konkurrenz auch" – Reportage über junge, hoffnungsvolle Illustrator\*innen auf der Frankfurter Buchmesse
 
@@ -61,7 +62,7 @@ My biggest project to date: An hour-long pilot of a podcast I produced while wor
 
 ##### [Podcast](https://praxis-udk.de/2020/06/26/praxisgespraech-mit-sarah-lehnert-%f0%9f%93%bb/): Praxisgespräch mit Sarah Lehnert ᵈᵉ
 
-<iframe src="https://anchor.fm/praxisgespraech/embed/episodes/Praxisgesprch-mit-Sarah-Lehnert--von-Serafin-Dinges-ei354h/a-a2ue9qu" height="100px" width="100%" frameborder="0" scrolling="no"></iframe>
+<a href="https://anchor.fm/praxisgespraech/episodes/Praxisgesprch-mit-Sarah-Lehnert--von-Serafin-Dinges-ei354h" target="_blank" class="link-with-caption"><img src="/assets/images/links/podcast_1.png" />öffnet in neuem Fenster</a>
 
 ##### Feature: New Work ᵈᵉ
 
@@ -78,7 +79,7 @@ My biggest project to date: An hour-long pilot of a podcast I produced while wor
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/565701924&color=%23645f54&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
 
-### Writing ᵉⁿ	
+### Writing ᵉⁿ
 
 <p class="noindent">
 So far I have not had the opportunity to publish anything in English. However, if you are interested in podcasts or literature or journalism I encourage you to <a href="/2018/10/07/bachelors-thesis.html" target="_blank">have a look at my Bachelor's thesis</a>, which I wrote in English.</p>
@@ -89,18 +90,19 @@ So far I have not had the opportunity to publish anything in English. However, i
 I have done a fair amount of hosting, both in paneled events and of course on air, both in long-form interview and music radio shows.</p>
 
 ##### Panel discussion on antisemitism and intersectionality
+
 <p class="noindent">
 ... with the writer Kenny Fries and the queer activist and rabbinical student Naomi Henkel-Gümbel (switches to English after a few minutes).</p>
 
-<iframe style="width: 100%; height: 370px;" src="https://www.youtube-nocookie.com/embed/C-zfQi6Bb1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/C-zfQi6Bb1E" target="_blank" class="link-with-caption"><img src="/assets/images/links/hosting_1.jpg" />opens YouTube in new window</a>
 
 ##### Panel discussion on cultural collaborations in the middle east
 
-<iframe style="width: 100%; height: 370px;" src="https://www.youtube-nocookie.com/embed/ZIwE4kwniYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/ZIwE4kwniYs" target="_blank" class="link-with-caption"><img src="/assets/images/links/hosting_2.jpg" />opens YouTube in new window</a>
 
 ##### Semesterabschlusspräsentation des Studiengangs Kulturjournalismus an der UdK Berlin ᵈᵉ
 
-<iframe style="width: 100%; height: 370px;" src="https://www.youtube-nocookie.com/embed/QnJ9K41E_8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/QnJ9K41E_8A" target="_blank" class="link-with-caption"><img src="/assets/images/links/hosting_3.jpg" />opens YouTube in new window</a>
 
 ##### Gästezimmer mit Günter M. Ziegler, Präsident der FU ᵈᵉ
 
@@ -121,4 +123,4 @@ I have done a fair amount of hosting, both in paneled events and of course on ai
 <p class="noindent">
 Für mein Abschlussprojekt im Seminar "Mobile Journalism" habe ich eine Künstlerin auf ihrem Weg durch den Kunstpreis begleitet. Kamera, Ton, Schnitt usw. alles aus eigener Hand.</p>
 
-<iframe style="width: 100%; height: 370px;" src="https://www.youtube-nocookie.com/embed/bo8ijPi14yo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/bo8ijPi14yo" target="_blank" class="link-with-caption"><img src="/assets/images/links/video_1.jpg" />opens YouTube in new window</a>

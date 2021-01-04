@@ -23,7 +23,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://serafindinges.com"
 twitter_username: etherealserafin
-github_username:  SerafinDinges
+github_username: SerafinDinges
 
 # Build settings
 markdown: kramdown
@@ -44,4 +44,4 @@ plugins:
   - jekyll-paginate
 
 paginate: 10
-paginate_path: "/page/:num/"
+paginate_path: "/blog/page-:num/"
