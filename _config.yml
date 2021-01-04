@@ -19,10 +19,6 @@ subtitle: >- # this means to ignore newlines until "baseurl:"
   Journalist, Producer & Programmer
 description: >-
   <div class=description>
-    <p class=center>
-      <a href=/assets/docs/CV_SerafinDinges_EN.pdf target=_blank>Curriculum Vitae</a> | 
-      <a href=/assets/docs/CV_SerafinDinges_DE.pdf target=_blank>Lebenslauf</a>
-    </p>
   </div>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://serafindinges.com"
