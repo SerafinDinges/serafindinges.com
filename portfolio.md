@@ -7,11 +7,13 @@ title: Portfolio
     <a href="/assets/docs/CV_SerafinDinges_DE.pdf" target="_blank">Lebenslauf</a>
 </p>
 
-<p class="noindent">
-I mainly work in audio – podcasts mostly – in German and English, with the odd writing gig thrown in between. Here you can find a quick selection of some of my work that I am the most proud of.
-</p>
-
-A lot of what I enjoy most about my line of work is the collaboration with other people. Editing, working out concepts, giving workshops, doing consultancy work – these are a few of my favourite things. The half-year I spent as the editor-in-chief at my university radio station [CouchFM](http://www.couchfm.de/) was some of the most instructive and fun work I've had the pleasure of doing. The results of this kind of work are of course way less tangible and much harder to put into a bullet point on this page.
+<p class=noindent>
+I'm a freelance journalist, podcast producer and programmer. I did a degree in Comparative Literature and English Linguistics, got lost, graduated, found my passion, and am now doing a postgrad in Cultural Journalism.
+ </p>
+    
+I mainly work in podcasts where I host, produce, research, edit, consult. I'm interested in the internet, science communication, data journalism. I also work in writing where I mostly stare at an empty screen. 
+    
+I work in English and German and have done so for <em>radioeins, rbb, Gabor Steingarts Morning Briefing, Reform Radio, Frankfurter Rundschau</em> and lots of underfunded podcast projects.
 
 Please note that I don't have the rights to all of my work to share on my website freely –  if you want to know more about some of my public radio work (in German), please [get in touch](mailto:hi@serafindinges.com).
 
