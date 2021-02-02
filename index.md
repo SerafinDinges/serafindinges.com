@@ -54,7 +54,7 @@ I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-d
 ##### Netzpolitik Podcast: Deplatforming Trump ᵈᵉ
 
 <p class="noindent">
-<a href="https://netzpolitik.org/2021/npp-220-zu-deplatforming-goodbye-mr-president/">Podcast vom Januar 2020 für netzpolitik.org</a>: Die sozialen Medien haben Donald Trump verbannt. Ist das jetzt konsequentes Vorgehen gegen einen Diskurszerstörer oder Zensur? Auch in der Redaktion gehen die Meinungen auseinander. Für diesen Podcast haben wir deshalb mit Expert:innen gesprochen und das Für und Wider des Deplatforming mit Constanze Kurz und Ingo Dachwitz erörtert.
+<a href="https://netzpolitik.org/2021/npp-220-zu-deplatforming-goodbye-mr-president/">Podcast vom Januar 2020 für netzpolitik.org</a>: Die sozialen Medien haben Donald Trump verbannt. Ist das jetzt konsequentes Vorgehen gegen einen Diskurszerstörer oder Zensur? Auch in der Redaktion von netzpolitik.org gehen die Meinungen auseinander. Interviews mit Expert:innen und der Redaktion.
 </p>
 
 <audio style="width: 100%" controls>
