@@ -9,14 +9,12 @@ title: Portfolio
 </p>
 
 <p class="noindent">
-I'm a freelance journalist, podcast producer and programmer. I did a degree in Comparative Literature and English Linguistics, got lost, graduated, found my passion, and am now doing a postgrad in Cultural Journalism.
- </p>
+I'm a freelance journalist, podcast producer and programmer. I am interested in all the beautiful and messy intersections of the internet and culture and the people navigating the spaces in between.
+</p>
     
-I mainly work in podcasts where I host, produce, research, edit, consult. I'm interested in the internet, science communication, data journalism. I also work in writing where I mostly stare at an empty screen. 
+I mostly work in audio where I host, produce, research, edit, consult. I do also work in writing where I spend a lot of my time staring at a blank screen. Both in English and German. ([And yes, I am looking for commissions.](mailto:hi@serafindinges.com))
     
-I work in English and German and have done so for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-dinges/), radioeins, rbb, Gabor Steingarts Morning Briefing, Reform Radio, Frankfurter Rundschau</em> and lots of underfunded podcast projects.
-
-Please note that I don't have the rights to all of my work to share on my website freely – if you want to know more about some of my public radio work (in German), please [get in touch](mailto:hi@serafindinges.com).
+I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-dinges/), Vogue, radioeins, rbb, Gabor Steingarts Morning Briefing, Reform Radio, Frankfurter Rundschau</em> and lots of underfunded podcast projects.
 
 ### Writing ᵈᵉ
 
