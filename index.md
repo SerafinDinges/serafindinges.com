@@ -58,10 +58,21 @@ Please note that I don't have the rights to all of my work to share on my websit
 
 ### Audio
 
+##### Netzpolitik Podcast ᵈᵉ
+
+<p class="noindent">
+[Podcast vom Januar 2020 für netzpolitik.org](https://netzpolitik.org/2021/npp-220-zu-deplatforming-goodbye-mr-president/): Die sozialen Medien haben Donald Trump verbannt. Ist das jetzt konsequentes Vorgehen gegen einen Diskurszerstörer oder Zensur? Auch in der Redaktion gehen die Meinungen auseinander. Für diesen Podcast haben wir deshalb mit Expert:innen gesprochen und das Für und Wider des Deplatforming mit Constanze Kurz und Ingo Dachwitz erörtert.
+</p>
+
+<audio style="width: 100%" controls>
+  <source src="https://cdn.netzpolitik.org/wp-upload/2021/01/21-01-16-deplatforming.mp3" type="audio/mpeg">
+  <source src="https://cdn.netzpolitik.org/wp-upload/2021/01/21-01-16-deplatforming.ogg" type="audio/ogg">
+</audio>
+
 ##### Reform Radio: When I Grow Up
 
 <p class="noindent">
-My biggest project to date: An hour-long pilot of a podcast I produced while working with Reform Radio in Manchester. An excursion into Millennial perspectives on contemporary lives. I am working on more, but because of the ambitious scale of the project and my limited time I only rarely get to work on it. You can listen to the whole thing here or subscribe to When I Grow Up wherever you get your podcasts.</p>
+An hour-long pilot of a podcast I produced while working with Reform Radio in Manchester. An excursion into Millennial perspectives on contemporary lives. I am working on more, but because of the ambitious scale of the project and my limited time I only rarely get to work on it. You can listen to the whole thing here or subscribe to When I Grow Up wherever you get your podcasts.</p>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/618632376&color=%23645f54&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
 
