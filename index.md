@@ -14,18 +14,27 @@ I'm a freelance journalist, podcast producer and programmer. I did a degree in C
     
 I mainly work in podcasts where I host, produce, research, edit, consult. I'm interested in the internet, science communication, data journalism. I also work in writing where I mostly stare at an empty screen. 
     
-I work in English and German and have done so for <em>radioeins, rbb, Gabor Steingarts Morning Briefing, Reform Radio, Frankfurter Rundschau</em> and lots of underfunded podcast projects.
+I work in English and German and have done so for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-dinges/), radioeins, rbb, Gabor Steingarts Morning Briefing, Reform Radio, Frankfurter Rundschau</em> and lots of underfunded podcast projects.
 
 Please note that I don't have the rights to all of my work to share on my website freely – if you want to know more about some of my public radio work (in German), please [get in touch](mailto:hi@serafindinges.com).
 
 ### Writing ᵈᵉ
 
 <p class="noindent">
+<a href="https://netzpolitik.org/2021/der-audiogigant-spotifys-kampf-um-den-podcast-thron/" target="_blank">
+  <img src="/assets/images/links/21-02-01-podcasts.png" class="highlight" />
+</a>
+</p>
+
+<p class="noindent">
 <a href="https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis" target="_blank">
   <img src="/assets/images/links/olympia.jpg" class="highlight" />
 </a>
 </p>
-- Aktuell schreibe ich als Praktikant viel für netzpolitik.org. [Hier geht's zu den Texten.](https://netzpolitik.org/author/serafin-dinges/)
+
+- [netzpolitik.org](https://netzpolitik.org/2020/wie-alte-menschen-sich-im-lockdown-vernetzen/): "Digitalisierung – Wie alte Menschen sich im Lockdown vernetzen"
+
+- [netzpolitik.org](https://netzpolitik.org/2021/bundesregierung-noch-60-000-rechner-mit-windows-7-in-betrieb/): "Bundesregierung – Noch 60.000 Rechner mit Windows 7 in Betrieb"
 
 - [Vogue Germany](https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis): "Mehr davon, Olympia Bukkais" – Portrait der Drag Queen Olympia Bukkakis
 
