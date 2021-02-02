@@ -35,13 +35,13 @@ Please note that I don't have the rights to all of my work to share on my websit
 
 - [Vogue Germany](https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis): "Mehr davon, Olympia Bukkais" – Portrait der Drag Queen Olympia Bukkakis
 
-- [Praxis](https://praxis-udk.de/2020/09/11/eintauchen-in-childish-gambinos-because-the-internet/): "Eintauchen in Childish Gambinos Because the Internet" – Die neue Staffel Dissect
-
-- [Praxis](https://praxis-udk.de/2020/09/09/veggie-bingo/): "Veggie Bingo" – Das neue Album der Trompeterin Jaimie Branch mit ihrem Projekt Anteloper
-
 - [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/lange-abschied-weissen-dominanz-13135259.html): "Mit Weißen über Hautfarbe sprechen" – Buchrezension von "Der lange Abschied von der weißen Dominanz" - Charlotte Wiedemann
 
 - [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/frankfurter-buchmesse-lange-schlangen-illustratorensprechstunden-13134106.html): "Die Hoffnung ist groß, die Konkurrenz auch" – Reportage über junge, hoffnungsvolle Illustrator\*innen auf der Frankfurter Buchmesse
+
+- [Praxis](https://praxis-udk.de/2020/09/11/eintauchen-in-childish-gambinos-because-the-internet/): "Eintauchen in Childish Gambinos Because the Internet" – Die neue Staffel Dissect
+
+- [Praxis](https://praxis-udk.de/2020/09/09/veggie-bingo/): "Veggie Bingo" – Das neue Album der Trompeterin Jaimie Branch mit ihrem Projekt Anteloper
 
 - [An Japan verbrüht: Marion Poschmanns "Die Kieferninseln"](/2019/12/01/rezension-kieferninseln.html)
 
