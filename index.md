@@ -43,13 +43,9 @@ Please note that I don't have the rights to all of my work to share on my websit
 
 - [Praxis](https://praxis-udk.de/2020/09/09/veggie-bingo/): "Veggie Bingo" – Das neue Album der Trompeterin Jaimie Branch mit ihrem Projekt Anteloper
 
-- [An Japan verbrüht: Marion Poschmanns "Die Kieferninseln"](/2019/12/01/rezension-kieferninseln.html)
+- [An Japan verbrüht: Buchrezension Marion Poschmanns "Die Kieferninseln"](/2019/12/01/rezension-kieferninseln.html)
 
 - [Schwerelos und schwermütig](/2019/05/10/rezension-fka-twigs-cellophane.html) – Zu Cellophane von FKA twigs
-
-- [Man kennt sich](/2019/06/18/konzertkritik.html) – Konzertkritik
-
-- [Was ist schon normal?](/2019/02/03/modekritik-rick-owens.html) – Modekritik Rick Owens
 
 - [A Room of One’s Own](/2019/01/10/kunststadt-berlin.html) – über das Artist in Residence-Programm des Auswärtigen Amtes
 
