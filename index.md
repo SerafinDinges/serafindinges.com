@@ -24,9 +24,6 @@ Please note that I don't have the rights to all of my work to share on my websit
 <a href="https://netzpolitik.org/2021/der-audiogigant-spotifys-kampf-um-den-podcast-thron/" target="_blank">
   <img src="/assets/images/links/21-02-01-podcasts.png" class="highlight" />
 </a>
-</p>
-
-<p class="noindent">
 <a href="https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis" target="_blank">
   <img src="/assets/images/links/olympia.jpg" class="highlight" />
 </a>
