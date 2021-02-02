@@ -33,6 +33,8 @@ Please note that I don't have the rights to all of my work to share on my websit
 
 - [netzpolitik.org](https://netzpolitik.org/2021/bundesregierung-noch-60-000-rechner-mit-windows-7-in-betrieb/): "Bundesregierung – Noch 60.000 Rechner mit Windows 7 in Betrieb"
 
+- [netzpolitik.org](https://netzpolitik.org/2021/der-audiogigant-spotifys-kampf-um-den-podcast-thron/): "Der Audiogigant – Spotifys Kampf um den Podcast-Thron"
+
 - [Vogue Germany](https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis): "Mehr davon, Olympia Bukkais" – Portrait der Drag Queen Olympia Bukkakis
 
 - [Frankfurter Rundschau](https://www.fr.de/kultur/literatur/lange-abschied-weissen-dominanz-13135259.html): "Mit Weißen über Hautfarbe sprechen" – Buchrezension von "Der lange Abschied von der weißen Dominanz" - Charlotte Wiedemann
