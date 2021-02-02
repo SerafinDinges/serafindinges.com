@@ -55,10 +55,10 @@ Please note that I don't have the rights to all of my work to share on my websit
 
 ### Audio
 
-##### Netzpolitik Podcast ᵈᵉ
+##### Netzpolitik Podcast: Deplatforming Trump ᵈᵉ
 
 <p class="noindent">
-[Podcast vom Januar 2020 für netzpolitik.org](https://netzpolitik.org/2021/npp-220-zu-deplatforming-goodbye-mr-president/): Die sozialen Medien haben Donald Trump verbannt. Ist das jetzt konsequentes Vorgehen gegen einen Diskurszerstörer oder Zensur? Auch in der Redaktion gehen die Meinungen auseinander. Für diesen Podcast haben wir deshalb mit Expert:innen gesprochen und das Für und Wider des Deplatforming mit Constanze Kurz und Ingo Dachwitz erörtert.
+<a href="https://netzpolitik.org/2021/npp-220-zu-deplatforming-goodbye-mr-president/">Podcast vom Januar 2020 für netzpolitik.org</a>: Die sozialen Medien haben Donald Trump verbannt. Ist das jetzt konsequentes Vorgehen gegen einen Diskurszerstörer oder Zensur? Auch in der Redaktion gehen die Meinungen auseinander. Für diesen Podcast haben wir deshalb mit Expert:innen gesprochen und das Für und Wider des Deplatforming mit Constanze Kurz und Ingo Dachwitz erörtert.
 </p>
 
 <audio style="width: 100%" controls>
