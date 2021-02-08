@@ -207,7 +207,8 @@ a.feature .title {
     height: 100%;
     text-align: center;
     color: $brand-color;
-  background: $text-color;
+ /* background: $text-color;*/
+  background: $muted-text-color;
     transition: 400ms;
     display: flex;
     justify-content: center;
