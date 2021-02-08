@@ -20,7 +20,7 @@ I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-d
 
 <p class="noindent">
 <a href="https://netzpolitik.org/2021/der-audiogigant-spotifys-kampf-um-den-podcast-thron/" target="_blank">
-  <img src="/assets/images/links/21-02-01-podcasts.png" class="highlight" />
+  <img src="/assets/images/links/21-01-spotify.jpg" class="highlight" />
 </a>
 <a href="https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis" target="_blank">
   <img src="/assets/images/links/olympia.jpg" class="highlight" />
