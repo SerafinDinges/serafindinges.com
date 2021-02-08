@@ -31,9 +31,12 @@
 .post h2 + p {
   text-indent: 0;
 }
-
+.post a {
+  transition: 250ms;
+}
 .post a:hover {
-  background: $highlight;
+  background: $text-color;
+  color: $brand-color;
 }
 
 .post dl,
