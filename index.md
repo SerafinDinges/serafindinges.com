@@ -19,8 +19,12 @@ I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-d
 ### Writing ᵈᵉ
 
 <p class="noindent">
-<a href="https://netzpolitik.org/2021/der-audiogigant-spotifys-kampf-um-den-podcast-thron/" target="_blank">
+<a href="https://netzpolitik.org/2021/der-audiogigant-spotifys-kampf-um-den-podcast-thron/" class="feature" target="_blank">
   <img src="/assets/images/links/21-01-spotify.jpg" class="highlight" />
+  <h4>
+    Spotifys Kampf um den Podcast-Thron
+    <span>netzpolitik.org</span>
+  </h4>
 </a>
 <a href="https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis" target="_blank">
   <img src="/assets/images/links/olympia.jpg" class="highlight" />
