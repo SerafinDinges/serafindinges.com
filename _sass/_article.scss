@@ -32,10 +32,10 @@
   text-indent: 0;
 }
 .post a {
-  transition: 250ms;
+  transition: 125ms;
 }
 .post a:hover {
-  background: $text-color;
+  background: $muted-text-color;
   color: $brand-color;
 }
 
