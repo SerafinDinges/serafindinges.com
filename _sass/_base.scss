@@ -195,6 +195,7 @@ p.noindent {
 
 a.feature {
   display: block;
+  position: relative;
 }
 
 a.feature .title {
@@ -211,9 +212,10 @@ a.feature .title {
     justify-content: center;
     align-items: center;
     padding: 15px;
-  flex-wrap: none;
+  opacity: 0;
+  flex-wrap: nowrap;
   font-style: italic;
-  font-isze: 1.25em;
+  font-size: 1.25em;
 }
 
 a.feature .title .credit {
