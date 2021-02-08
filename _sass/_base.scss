@@ -231,3 +231,13 @@ a.feature .title .credit {
 a.feature .title:hover {
   opacity: 1;
 }
+
+@media (hover: none) {
+  a.feature img {
+    margin-bottom: 0;
+  }
+  a.feature .title {
+    position: relative;
+    opacity: 1;
+  }
+}
