@@ -192,3 +192,27 @@ p.noindent {
   margin-bottom: 1px;
   display: block;
 }
+
+a.feature {
+  display: block;
+}
+
+a.feature h4 {
+  margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background: #e8e8e8ff;
+    transition: 400ms;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+a.feature h4:hover {
+  opacity: 1;
+}
