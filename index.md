@@ -26,8 +26,12 @@ I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-d
     <span>netzpolitik.org</span>
   </h4>
 </a>
-<a href="https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis" target="_blank">
+<a href="https://www.vogue.de/lifestyle/artikel/mehr-davon-olympia-bukkakis" class="feature" target="_blank">
   <img src="/assets/images/links/olympia.jpg" class="highlight" />
+  <h4>
+    Olympia Bukkakis
+    <span>Vogue Germany</span>
+  </h4>
 </a>
 </p>
 
