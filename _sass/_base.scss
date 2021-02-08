@@ -211,6 +211,13 @@ a.feature h4 {
     justify-content: center;
     align-items: center;
     padding: 15px;
+  flex-wrap: none;
+}
+
+a.feature h4 span {
+  font-size: 15px;
+  font-style: normal;
+  text-decoration: underline;
 }
 
 a.feature h4:hover {
