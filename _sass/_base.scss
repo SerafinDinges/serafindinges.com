@@ -197,7 +197,7 @@ a.feature {
   display: block;
 }
 
-a.feature h4 {
+a.feature .title {
   margin: 0;
     position: absolute;
     top: 0;
@@ -212,14 +212,16 @@ a.feature h4 {
     align-items: center;
     padding: 15px;
   flex-wrap: none;
+  font-style: italic;
+  font-isze: 1.25em;
 }
 
-a.feature h4 span {
+a.feature .title .credit {
   font-size: 15px;
   font-style: normal;
   text-decoration: underline;
 }
 
-a.feature h4:hover {
+a.feature .title:hover {
   opacity: 1;
 }
