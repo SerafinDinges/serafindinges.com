@@ -6,6 +6,11 @@ body {
   line-height: 1.5;
 }
 
+::selection {
+  color: $brand-color;
+  background: $text-color;
+}
+
 h1 {
   font-size: 3em;
   margin: 0.5em auto;
