@@ -128,7 +128,7 @@ figcaption {
 .home {
   max-width: 550px;
   margin: auto;
-  // padding: 0.8em 1em;
+  padding: 0 1em;
 }
 
 #swag {
@@ -152,6 +152,15 @@ figcaption {
   text-transform: uppercase;
   .post-link & {
     padding: 0.5em 0;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .post-date {
+    font-size: .65em;
+    .post-link & {
+      padding: 0;
+    }
   }
 }
 
