@@ -51,11 +51,11 @@ I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-d
 
 - [Praxis](https://praxis-udk.de/2020/09/09/veggie-bingo/): "Veggie Bingo" – Das neue Album der Trompeterin Jaimie Branch mit ihrem Projekt Anteloper
 
-- [An Japan verbrüht: Buchrezension Marion Poschmanns "Die Kieferninseln"](/2019/12/01/rezension-kieferninseln.html)
+- [An Japan verbrüht: Buchrezension Marion Poschmanns "Die Kieferninseln"](/2019/12/rezension-kieferninseln)
 
-- [Schwerelos und schwermütig](/2019/05/10/rezension-fka-twigs-cellophane.html) – Zu Cellophane von FKA twigs
+- [Schwerelos und schwermütig](/2019/05/rezension-fka-twigs-cellophane) – Zu Cellophane von FKA twigs
 
-- [A Room of One’s Own](/2019/01/10/kunststadt-berlin.html) – über das Artist in Residence-Programm des Auswärtigen Amtes
+- [A Room of One’s Own](/2019/01/kunststadt-berlin) – über das Artist in Residence-Programm des Auswärtigen Amtes
 
 ### Audio
 
