@@ -2,6 +2,7 @@
 title: >- 
     Audio walk: There's no place like home
 layout: post
+permalink: /2020/10/24/no-place-like-home.html
 ---
 *made in summer 2020*
 
