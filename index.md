@@ -16,7 +16,7 @@ I mostly work in audio where I host, produce, research, edit, consult. I do also
     
 I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-dinges/), Vogue, radioeins, rbb, Gabor Steingarts Morning Briefing, Reform Radio, Frankfurter Rundschau</em> and lots of underfunded podcast projects.
 
-### Writing ᵈᵉ
+### Text ᵈᵉ
 
 <p class="noindent">
   <a href="https://netzpolitik.org/2021/der-audiogigant-spotifys-kampf-um-den-podcast-thron/" class="feature" target="_blank">
@@ -100,15 +100,10 @@ An hour-long pilot of a podcast I produced while working with Reform Radio in Ma
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/565701924&color=%23645f54&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
 
-### Writing ᵉⁿ
-
-<p class="noindent">
-So far I have not had the opportunity to publish anything in English. However, if you are interested in podcasts or literature or journalism I encourage you to <a href="/2018/10/07/bachelors-thesis.html" target="_blank">have a look at my Bachelor's thesis</a>, which I wrote in English.</p>
-
 ### Hosting
 
 <p class="noindent">
-I have done a fair amount of hosting, both in paneled events and of course on air, both in long-form interview and music radio shows.</p>
+I have done a fair amount of hosting, both in paneled events and of course on air in either long-form interviews or music radio shows.</p>
 
 ##### Panel discussion on antisemitism and intersectionality
 
