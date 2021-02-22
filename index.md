@@ -16,11 +16,16 @@ I mostly work in audio where I host, produce, research, edit, consult. I do also
     
 I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-dinges/), Vogue, radioeins, rbb, Gabor Steingarts Morning Briefing, Reform Radio, Frankfurter Rundschau</em> and lots of underfunded podcast projects.
 
-<p class="noindent">
+### Highlights
+
+<p class="noindent" style="margin-top: 20px">
   <a href="https://netzpolitik.org/2021/npp-223-zu-gewalt-auf-pornoplattformen-ungewollt-nackt-im-netz/" class="feature" target="_blank">
     <img src="/assets/images/links/anna_nackt.jpg" class="highlight" />
     <span class="title">
-      Ungewollt nackt im Netz
+      Podcast: Ungewollt nackt im Netz <br />
+      <audio style="width: 100%" controls>
+        <source src="/assets/images/links/anna_nackt.mp3" type="audio/mpeg">
+      </audio>
       <span class="credit">netzpolitik.org</span>
     </span>
   </a>
