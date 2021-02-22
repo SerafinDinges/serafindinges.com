@@ -18,9 +18,7 @@ I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-d
 
 <p class="noindent">
   <a href="https://netzpolitik.org/2021/npp-223-zu-gewalt-auf-pornoplattformen-ungewollt-nackt-im-netz/" class="feature" target="_blank">
-    <video width="320" height="240" controls>
-      <source src="/assets/images/links/anna_nackt.mp4" type="video/mp4">
-    </video>
+    <img src="/assets/images/links/anna_nackt.jpg" class="highlight" />
     <span class="title">
       Ungewollt nackt im Netz
       <span class="credit">netzpolitik.org</span>
