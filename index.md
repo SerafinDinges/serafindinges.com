@@ -23,7 +23,7 @@ I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-d
     <img src="/assets/images/links/anna_nackt.jpg" class="highlight" />
     <span class="title">
       Podcast: Ungewollt nackt im Netz <br />
-      <audio style="width: 100%" controls>
+      <audio style="width: 100%; margin: 10px; height: 30px;" controls>
         <source src="/assets/images/links/anna_nackt.mp3" type="audio/mpeg">
       </audio>
       <span class="credit">netzpolitik.org</span>
@@ -77,7 +77,7 @@ I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-d
 <a href="https://netzpolitik.org/2021/npp-220-zu-deplatforming-goodbye-mr-president/">Podcast vom Januar 2021 für netzpolitik.org</a>: Die sozialen Medien haben Donald Trump verbannt. Ist das jetzt konsequentes Vorgehen gegen einen Diskurszerstörer oder Zensur? Auch in der Redaktion von netzpolitik.org gehen die Meinungen auseinander. Interviews mit Expert:innen und der Redaktion.
 </p>
 
-<audio style="width: 100%" controls>
+<audio style="width: 100%; height: 30px;" controls>
   <source src="https://cdn.netzpolitik.org/wp-upload/2021/01/21-01-16-deplatforming.mp3" type="audio/mpeg">
   <source src="https://cdn.netzpolitik.org/wp-upload/2021/01/21-01-16-deplatforming.ogg" type="audio/ogg">
 </audio>
