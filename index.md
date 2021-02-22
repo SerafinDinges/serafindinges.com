@@ -16,9 +16,16 @@ I mostly work in audio where I host, produce, research, edit, consult. I do also
     
 I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-dinges/), Vogue, radioeins, rbb, Gabor Steingarts Morning Briefing, Reform Radio, Frankfurter Rundschau</em> and lots of underfunded podcast projects.
 
-### Text ᵈᵉ
-
 <p class="noindent">
+  <a href="https://netzpolitik.org/2021/npp-223-zu-gewalt-auf-pornoplattformen-ungewollt-nackt-im-netz/" class="feature" target="_blank">
+    <video width="320" height="240" controls>
+      <source src="/assets/images/links/anna_nackt.mp4" type="video/mp4">
+    </video>
+    <span class="title">
+      Ungewollt nackt im Netz
+      <span class="credit">netzpolitik.org</span>
+    </span>
+  </a>
   <a href="https://netzpolitik.org/2021/der-audiogigant-spotifys-kampf-um-den-podcast-thron/" class="feature" target="_blank">
     <img src="/assets/images/links/21-01-spotify.jpg" class="highlight" />
     <span class="title">
@@ -34,6 +41,8 @@ I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-d
     </span>
   </a>
 </p>
+
+### Text ᵈᵉ
 
 - [netzpolitik.org](https://netzpolitik.org/2020/wie-alte-menschen-sich-im-lockdown-vernetzen/): "Digitalisierung – Wie alte Menschen sich im Lockdown vernetzen"
 
