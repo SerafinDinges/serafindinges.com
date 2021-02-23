@@ -12,7 +12,7 @@ title: Portfolio
 I'm a freelance journalist, podcast producer and programmer. I am interested in all the beautiful and messy intersections of the internet and culture and the people navigating the spaces in between.
 </p>
     
-I mostly work in audio where I host, produce, research, edit, consult. I do also work in writing where I mostly stare at a blank screen, looking for words. I work in English and German ([and why yes, I am always looking for commissions](mailto:hi@serafindinges.com)).
+I love every part about working in audio. I host, record and produce, research, edit, consult and increasingly often compose score. I do also work in writing where I mostly stare at a blank screen, looking for words. I work in English and German ([and why yes, I am always looking for commissions](mailto:hi@serafindinges.com)).
     
 I have worked for <em>[netzpolitik.org](https://netzpolitik.org/author/serafin-dinges/), Vogue, radioeins, rbb, Gabor Steingarts Morning Briefing, Reform Radio, Frankfurter Rundschau</em> and lots of underfunded podcast projects.
 
